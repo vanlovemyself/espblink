@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "sdkconfig.h": "c",
+        "gpio.h": "c",
+        "task.h": "c",
+        "stdio.h": "c"
+    }
+}
